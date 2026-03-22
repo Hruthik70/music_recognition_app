@@ -1,16 +1,24 @@
-# music_sync_app
+# Synced
 
-It is the frontend for the Music Recognition
+A music recognition app that identifies songs and displays synced lyrics.
 
-## Getting Started
+[<img src="https://img.shields.io/badge/Download_APK-795548?style=for-the-badge">](https://github.com/yourusername/music-sync-app/releases/latest)
+[<img src="https://img.shields.io/badge/Spring_Boot-Backend-795548?style=for-the-badge">](https://github.com/yourusername/music-sync-app)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Identifies any song playing around you in 6 seconds
+- Displays time-synced lyrics that scroll automatically with the song
+- Themes the UI dynamically based on the song's album art
+- Tap any lyric line to seek the sync to that position
+- Accurate sync using wall-clock time — no drift regardless of network speed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots
+
+| Listening | Found | Lyrics |
+|:---------:|:-----:|:------:|
+| <img src="screenshots/listening.png" width="220"> | <img src="screenshots/found.png" width="220"> | <img src="screenshots/lyrics.png" width="220"> |
