@@ -21,4 +21,4 @@ A music recognition app that identifies songs and displays synced lyrics.
 
 | Listening | Found | Lyrics |
 |:---------:|:-----:|:------:|
-| <img src="screenshots/listening.png" width="220"> | <img src="screenshots/found.png" width="220"> | <img src="screenshots/lyrics.png" width="220"> |
+| <img src="screenshots/Screenshot_20260322_195934.png" width="220"> | <img src="screenshots/Screenshot_20260322_200408.png" width="220"> | <img src="screenshots/Screenshot_20260322_195919.png" width="220"> |
