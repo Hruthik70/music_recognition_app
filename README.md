@@ -3,7 +3,7 @@
 A music recognition app that identifies songs and displays synced lyrics.
 
 [<img src="https://img.shields.io/badge/Download_APK-795548?style=for-the-badge">](https://github.com/Hruthik70/music_recognition_app/releases/tag/1.0.0)
-[<img src="https://img.shields.io/badge/Spring_Boot-Backend-795548?style=for-the-badge">](https://github.com/yourusername/music-sync-app)
+[<img src="https://img.shields.io/badge/Spring_Boot-Backend-795548?style=for-the-badge">](https://github.com/Hruthik70/Music_Recognition_Backend)
 
 ---
 
